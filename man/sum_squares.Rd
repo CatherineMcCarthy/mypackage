@@ -16,3 +16,7 @@ number
 returns the sum of the squared deviations
 from mean, SS(x) of a numeric vector
 }
+\examples{
+sum_squares(rnorm(50))
+
+}
